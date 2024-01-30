@@ -1,0 +1,1 @@
+Di hari pertama ini saya belajar tentang fundamental HTML yang ternyata tidak sesulit yang saya kira. Saya mengetahui atribut, tag, dan lainnya. Di hari ini saya mencoba membuat project sesuai dengan petunjuk dari codecademy untuk membuat front end tentang burger yang menggunakan input
