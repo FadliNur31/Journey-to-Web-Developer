@@ -1,0 +1,48 @@
+header {
+    background-image: url(pattern.JPG);
+    max-height: 200px;
+    min-height:100px;
+    border: 1px solid black;
+}
+header h1{
+    color: khaki;
+    font-size: 100px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+ul{
+    margin-right: 31px;
+}
+ul li{
+    left: 0px;
+    list-style:none;
+    font-family:Arial, Helvetica, sans-serif;
+}
+li h2{
+    position: relative;
+    top:25%;
+    color: white;
+}
+li h4{
+    font-weight: lighter;
+}
+.caption_brushes{
+    height: 50px;
+    background-color:rgb(106, 190, 106) ;
+    margin-bottom: 10px;
+}
+
+.caption_frames{
+    height: 50px;
+    background-color:rgba(210, 80, 108, 0.672) ;
+    margin-bottom: 10px;
+}
+.caption_paint{
+    height: 50px;
+    background-color:rgba(29, 151, 227, 0.672) ;
+    margin-bottom: 10px;
+}

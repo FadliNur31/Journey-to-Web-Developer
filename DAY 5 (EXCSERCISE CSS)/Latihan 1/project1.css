@@ -1,0 +1,67 @@
+html{
+    background-color: white;
+}
+body{
+    background-color:rgb(238, 230, 230);
+    position: relative;
+}
+header{
+    margin-top: 50px;
+    border-radius: 7px;
+    padding-top: 5px;
+}
+header h1{
+    text-align: center;
+}
+header .Caption h4{
+    text-align: center;
+    margin-top: 25px;
+    font-weight: lighter;
+}
+.Image{
+    margin: 0 10px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding-bottom:10px;
+}
+.Image img{
+    display: block;
+    padding: 10px 10px;
+    width: 70%;
+    height: 70%;
+    margin: 0 auto;
+}
+.Image .Caption h4{
+    width: 70%;
+    margin: 0px auto;
+    margin-bottom: 10px;
+    font-weight:lighter ;
+}
+main h3{
+   text-align: center;
+   margin-bottom: 50px;
+}
+ul{
+    min-width:40%;
+    max-width: 50%;
+    margin:0 auto;
+}
+ul li{
+    margin-bottom: 20px;
+}
+.Quotes{
+    font-style: italic;
+    width:50%;
+    margin:0 auto;
+}
+.Quotes span{
+    font-style:normal;
+}
+
+footer{
+    margin: 0 auto;
+    width: 70%;
+}
+footer h3{
+    text-align: center;
+}
