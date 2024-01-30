@@ -1,0 +1,1 @@
+Di hari ke tiga saya sudah membeli codecademy dan memulai mempelajari css. awalnya saya masih me review tentang HTML dan telah membuat project kecil baru lagi. Selanjutnya saya belajar tentang fundamental css.
