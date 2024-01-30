@@ -1,0 +1,1 @@
+WAWWWWW saya menemukan titik susah dalam bahasa css yaituu how to center fuckin divvvvv. Sebenarnya kita bisa saja untuk men center sebuah div namun perlu coba2 trial and error, saya belum terlalu paham untuk men center sebuah div pada css bagi saya itu hal tersulit saat ini dan itu memakan banyak waktu.
