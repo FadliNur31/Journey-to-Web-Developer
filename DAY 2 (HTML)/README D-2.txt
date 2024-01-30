@@ -1,0 +1,1 @@
+Di hari kedua saya masih mempelajari tentang HTML dan mencoba membuat project sederhana lagi dengan melihat tutorial youtube. Kali ini saya hanya 40% mengikuti tutorial nya dan sisanya saya kreasikan sesuai kehendak saya sendiri. Di hari ini saya mendapat pemahaman tentang gambar background serta style dalam tulisan seperti besar font ataupun warna nya.
