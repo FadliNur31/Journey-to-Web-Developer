@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap');
+
+.Gambar{
+    height:100px;
+    width:100px;
+    display: block;
+    position:relative;
+    top: 125px;
+    margin:0 auto;
+}
+
+.Gambar img{
+    height:100%;
+    width:100%;
+    border-radius: 50%;
+}
+
+.Kotak1{
+    margin: 0 auto;
+    height: 100px;
+    width: 25%;
+    min-width: 250px;
+    border-radius: 10px;
+    border: 2px solid #62A87C;
+    background-color: #62A87C;
+    position: relative;
+    top:125px;
+}
+
+.Kotak2{
+    margin: 0 auto;
+    height: 200px;
+    min-width: 250px;
+    width: 25%;
+    height: 200;
+    border-radius: 10px;
+    border: 2px solid #E5E5C5;
+    background-color: #E5E5C5;
+    z-index: 1;
+}

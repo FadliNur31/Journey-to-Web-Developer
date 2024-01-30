@@ -1,0 +1,1 @@
+Di hari ini saya belajar banyak elemen2 baru pada css yaitu margin padding border dan juga positioning. Di sini saya level kesuliatan bahasa css sudah mulai keliatan dimana saya bingung untuk mengimplementasikan box dan positioning dalam css.
