@@ -1,0 +1,30 @@
+#Map{
+    border:1px solid blue;
+    width: 62.5rem;
+    height: 62.5rem;
+    border-radius: 2rem;
+    display: grid;
+    grid-template-columns: repeat(20, 50px);
+    grid-template-rows: repeat(20, 50px);
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.food{
+    background-image: url(kopi_arjuna_kopi_bapak_greng_jos_full01_17051f36.jpg);
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.snake{
+    background-color : black;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.Snakebody{
+    background-color: black;
+}
